@@ -54,10 +54,7 @@ class Statistiky: public Event{
             for(int i = 0; i < pocet_pracovniku_dilny - 1; i++){
                 zamestnanci_lvl[pole_levelu_pracovniku[i] - 1]++;
             }
-            // // Pocitani vyplat
-            // for(int i = 0; i < pocet_pracovniku_dilny - 1; i++){
-            //     vyplata_celkem += dodelane_stoly_celkem[i] * profity[i];
-            // } todo del
+            Vyplaty_za_rok();
         }
         void Prepocet_lvl(int lvl){
            zamestnanci_lvl[lvl]++;
@@ -103,7 +100,9 @@ class Statistiky: public Event{
             for(int i = 0; i < 10; i++){
                 Profit += dodelane_stoly_celkem[i] * profity[i];
             }
-            cout << endl << endl << "Celkovy profit: " << Profit << endl;
+            cout << endl << endl << "Celkovy profit za stoly: " << Profit << endl;
+            cout << "Celkove vyplaty: " << vyplata_celkem << endl;
+            cout << "Celkovy profit: " << Profit - vyplata_celkem << endl;
         }
         void Prepis(){
             for(int i = 0; i < 10; i++){
@@ -113,11 +112,21 @@ class Statistiky: public Event{
                 dodelane_stoly[i] = 0;
             }
         }
+        void Vyplaty_za_rok(){
+             // Pocitani vyplat
+            for(int i = 0; i < 10; i++){
+                vyplata_celkem += vyplaty[i] * zamestnanci_lvl[i] * 12;
+            }
+            // Vyrovnani Mistr si neplati za vlastni praci
+            vyplata_celkem -= vyplaty[9];
+        }
         void Behavior(){
             Vypis();
             Prepis();
             if(rok == cas_simulace_roky){
                 Vypis_celkem();
+            }else{
+                Vyplaty_za_rok();
             }
             Activate(Time + ROK);
         }
@@ -132,13 +141,6 @@ class Statistiky: public Event{
         int dodelane_stoly_celkem[10] = {0,0,0,0,0,0,0,0,0,0};
 };
 
-// Dovolene todo
-// class Dovolene: public Event{
-//     public:
-//         void Behavior(){
-//             pass;
-//         }
-// }
 
 // Poruchy Soustruhu
 class Porucha_soustruhu: public Process{

@@ -1,0 +1,110 @@
+######_Rok: 1
+Zamestnanci urcitych levelu: lvl_5: 1  lvl_9: 1  lvl_10: 1
+
+Pocet dodelanych stolu:
+lvl_1: 0  lvl_2: 15  lvl_3: 30  lvl_4: 30  lvl_5: 12  lvl_6: 0  lvl_7: 0  lvl_8: 0  lvl_9: 89  lvl_10: 325
+
+Pocet ztracenych hodin:
+lvl_1: 0  lvl_2: 49  lvl_3: 112  lvl_4: 150  lvl_5: 96  lvl_6: 0  lvl_7: 0  lvl_8: 0  lvl_9: 911  lvl_10: 4
+
+
+######_Rok: 2
+Zamestnanci urcitych levelu: lvl_6: 1  lvl_9: 1  lvl_10: 1
+
+Pocet dodelanych stolu:
+lvl_1: 0  lvl_2: 0  lvl_3: 0  lvl_4: 0  lvl_5: 98  lvl_6: 1  lvl_7: 0  lvl_8: 0  lvl_9: 100  lvl_10: 337
+
+Pocet ztracenych hodin:
+lvl_1: 0  lvl_2: 0  lvl_3: 0  lvl_4: 0  lvl_5: 412  lvl_6: 3  lvl_7: 0  lvl_8: 0  lvl_9: 788  lvl_10: 2
+
+
+######_Rok: 3
+Zamestnanci urcitych levelu: lvl_6: 1  lvl_9: 1  lvl_10: 1
+
+Pocet dodelanych stolu:
+lvl_1: 0  lvl_2: 0  lvl_3: 0  lvl_4: 0  lvl_5: 0  lvl_6: 104  lvl_7: 0  lvl_8: 0  lvl_9: 105  lvl_10: 345
+
+Pocet ztracenych hodin:
+lvl_1: 0  lvl_2: 0  lvl_3: 0  lvl_4: 0  lvl_5: 0  lvl_6: 439  lvl_7: 0  lvl_8: 0  lvl_9: 715  lvl_10: 7
+
+
+######_Rok: 4
+Zamestnanci urcitych levelu: lvl_7: 1  lvl_9: 1  lvl_10: 1
+
+Pocet dodelanych stolu:
+lvl_1: 0  lvl_2: 0  lvl_3: 0  lvl_4: 0  lvl_5: 0  lvl_6: 95  lvl_7: 11  lvl_8: 0  lvl_9: 106  lvl_10: 324
+
+Pocet ztracenych hodin:
+lvl_1: 0  lvl_2: 0  lvl_3: 0  lvl_4: 0  lvl_5: 0  lvl_6: 410  lvl_7: 33  lvl_8: 0  lvl_9: 766  lvl_10: 5
+
+
+######_Rok: 5
+Zamestnanci urcitych levelu: lvl_7: 1  lvl_9: 1  lvl_10: 1
+
+Pocet dodelanych stolu:
+lvl_1: 0  lvl_2: 0  lvl_3: 0  lvl_4: 0  lvl_5: 0  lvl_6: 0  lvl_7: 108  lvl_8: 0  lvl_9: 112  lvl_10: 340
+
+Pocet ztracenych hodin:
+lvl_1: 0  lvl_2: 0  lvl_3: 0  lvl_4: 0  lvl_5: 0  lvl_6: 0  lvl_7: 459  lvl_8: 0  lvl_9: 776  lvl_10: 1
+
+
+######_Rok: 6
+Zamestnanci urcitych levelu: lvl_7: 1  lvl_9: 1  lvl_10: 1
+
+Pocet dodelanych stolu:
+lvl_1: 0  lvl_2: 0  lvl_3: 0  lvl_4: 0  lvl_5: 0  lvl_6: 0  lvl_7: 116  lvl_8: 0  lvl_9: 116  lvl_10: 340
+
+Pocet ztracenych hodin:
+lvl_1: 0  lvl_2: 0  lvl_3: 0  lvl_4: 0  lvl_5: 0  lvl_6: 0  lvl_7: 469  lvl_8: 0  lvl_9: 670  lvl_10: 5
+
+
+######_Rok: 7
+Zamestnanci urcitych levelu: lvl_7: 1  lvl_9: 1  lvl_10: 1
+
+Pocet dodelanych stolu:
+lvl_1: 0  lvl_2: 0  lvl_3: 0  lvl_4: 0  lvl_5: 0  lvl_6: 0  lvl_7: 109  lvl_8: 0  lvl_9: 112  lvl_10: 325
+
+Pocet ztracenych hodin:
+lvl_1: 0  lvl_2: 0  lvl_3: 0  lvl_4: 0  lvl_5: 0  lvl_6: 0  lvl_7: 431  lvl_8: 0  lvl_9: 770  lvl_10: 0
+
+
+######_Rok: 8
+Zamestnanci urcitych levelu: lvl_8: 1  lvl_9: 1  lvl_10: 1
+
+Pocet dodelanych stolu:
+lvl_1: 0  lvl_2: 0  lvl_3: 0  lvl_4: 0  lvl_5: 0  lvl_6: 0  lvl_7: 56  lvl_8: 58  lvl_9: 116  lvl_10: 327
+
+Pocet ztracenych hodin:
+lvl_1: 0  lvl_2: 0  lvl_3: 0  lvl_4: 0  lvl_5: 0  lvl_6: 0  lvl_7: 271  lvl_8: 248  lvl_9: 664  lvl_10: 4
+
+
+######_Rok: 9
+Zamestnanci urcitych levelu: lvl_8: 1  lvl_9: 1  lvl_10: 1
+
+Pocet dodelanych stolu:
+lvl_1: 0  lvl_2: 0  lvl_3: 0  lvl_4: 0  lvl_5: 0  lvl_6: 0  lvl_7: 0  lvl_8: 113  lvl_9: 115  lvl_10: 318
+
+Pocet ztracenych hodin:
+lvl_1: 0  lvl_2: 0  lvl_3: 0  lvl_4: 0  lvl_5: 0  lvl_6: 0  lvl_7: 0  lvl_8: 532  lvl_9: 701  lvl_10: 5
+
+
+######_Rok: 10
+Zamestnanci urcitych levelu: lvl_8: 1  lvl_9: 1  lvl_10: 1
+
+Pocet dodelanych stolu:
+lvl_1: 0  lvl_2: 0  lvl_3: 0  lvl_4: 0  lvl_5: 0  lvl_6: 0  lvl_7: 0  lvl_8: 108  lvl_9: 108  lvl_10: 338
+
+Pocet ztracenych hodin:
+lvl_1: 0  lvl_2: 0  lvl_3: 0  lvl_4: 0  lvl_5: 0  lvl_6: 0  lvl_7: 0  lvl_8: 557  lvl_9: 650  lvl_10: 0
+
+
+############_Celkem_############
+Pocet dodelanych stolu:
+lvl_1: 0  lvl_2: 15  lvl_3: 30  lvl_4: 30  lvl_5: 110  lvl_6: 200  lvl_7: 400  lvl_8: 279  lvl_9: 1079  lvl_10: 3319
+
+Pocet ztracenych hodin:
+lvl_1: 0  lvl_2: 49  lvl_3: 112  lvl_4: 150  lvl_5: 508  lvl_6: 852  lvl_7: 1665  lvl_8: 1337  lvl_9: 7416  lvl_10: 37
+
+Celkovy profit za stoly: 20916950
+Celkove vyplaty: 17516000
+Celkovy profit: 3400950
